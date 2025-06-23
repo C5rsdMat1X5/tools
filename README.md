@@ -90,3 +90,9 @@ Pull requests and suggestions are welcome. Memes about your procrastination whil
 ## 📌 Final Note
 
 The `voice-assistant/` and `instagram-unfollower/` folders are **not part of this repository** and are maintained separately as part of other projects.
+
+---
+
+## 🧠 Author
+
+Developed by Matías Henríquez.
