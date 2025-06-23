@@ -17,7 +17,7 @@ This repository contains a set of useful Python scripts and tools, organized by 
 
 ```bash
 # Clone the repository
-git clone https://github.com/C5rsdMat1X5/tools.git
+git clone https://github.com/C5rsdMat1X5/tools
 cd tools
 
 # Create and activate a virtual environment (optional but recommended)
