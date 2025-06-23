@@ -1,4 +1,4 @@
-equ = input("Ecuacion: ").replace(" ", "")
+equ = input("Ecuation: ").replace(" ", "")
 equation = []
 i = 0
 
@@ -13,7 +13,7 @@ while i < len(equ):
         equation.append(equ[i])
     i += 1
 
-print("Ecuacion en lista:", equation)
+print("Ecuations on list:", equation)
 
 equal_idx = equation.index("=")
 op_idx = None

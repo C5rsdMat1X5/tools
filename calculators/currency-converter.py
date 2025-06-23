@@ -1,6 +1,10 @@
+from dotenv import load_dotenv
 import requests
+import os
 
-API_KEY = ""
+load_dotenv()
+
+API_KEY = os.environ.get("API_KEY")
 
 def conversion_rate():
     while True:
